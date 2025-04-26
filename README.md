@@ -9,9 +9,9 @@ A Impulso Digital oferece consultoria personalizada para empresas e marcas que q
 
 ## Serviços
 
-- Consultoria em Redes Sociais
-- Estratégias de Crescimento
-- Criação de Conteúdo Digital
+- Consultoria em Redes Sociais;
+- Estratégias de Crescimento;
+- Criação de Conteúdo Digital;
 
 ## Como Usar
 
