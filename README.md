@@ -1,24 +1,28 @@
-touch README.md
-# Impulso Digital
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Impulso Digital</title>
+    <link rel="stylesheet" href="assets/styles.css"> <!-- Certifique-se de que o caminho está certo -->
+</head>
+<body>
+    <h1>Bem-vindo ao Impulso Digital!</h1>
+    <script src="src/main.js"></script> <!-- Certifique-se de que o caminho está certo -->
+</body>
+</html>
+3. Verifique se o CSS está correto
+Certifique-se de que o arquivo styles.css (ou qualquer nome que você tenha dado ao arquivo de estilo) está com as regras de estilo corretamente aplicadas. Por exemplo:
 
-Bem-vindo ao repositório do **Impulso Digital**! Aqui, compartilhamos o código e as estratégias para ajudar pequenos empreendedores a se posicionarem nas redes sociais de maneira eficiente.
+css
+Copiar
+Editar
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
 
-## Sobre
-
-A Impulso Digital oferece consultoria personalizada para empresas e marcas que querem crescer no mundo digital.
-
-## Serviços
-
-- Consultoria em Redes Sociais;
-- Estratégias de Crescimento;
-- Criação de Conteúdo Digital;
-
-## Como Usar
-
-1. Clonar este repositório
-2. Configurar sua aplicação localmente
-3. Contatar-nos para uma consultoria
-
-## Contato
-
-Email: contato@impulsodigital.com
+h1 {
+    color: #333;
+    text-align: center;
+}
